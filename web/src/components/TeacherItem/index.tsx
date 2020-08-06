@@ -13,6 +13,7 @@ export interface Teacher {
   name: string;
   subject: string;    
   whatsapp: string;
+  
 }
 
 interface TeacherItemProps {
@@ -52,7 +53,7 @@ const TeacherItem: React.FC<TeacherItemProps> = ({ teacher }) => {
             </p>
 
             <a 
-            target="_blank"
+            target="_blank" rel="noopener noreferrer"
             onClick={createNewConnection}href={`https://wa.me/${teacher.whatsapp}?text=${message}`}>
               <img src={whatsappIcon} alt="whatsapp"/>
               Entrar em contato

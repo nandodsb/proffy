@@ -1,6 +1,6 @@
 <h1 align="center">Proffy</h1>
 <p align="center">
-<img src=""/>
+<img src="./.github/proffy.svg"/>
 </p>
 
 <p align="center">

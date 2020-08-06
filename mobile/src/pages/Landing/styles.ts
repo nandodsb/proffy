@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
   buttonSecondary: {
     backgroundColor: '#04d361'
   },
-
+  
   buttonText: {
     fontFamily: 'Archivo_700Bold',
     color: '#FFF',

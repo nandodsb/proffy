@@ -26,7 +26,7 @@ export default class ClassesController {
 
     const timeInMinutes = convertHourToMinutes(time);
 
-    console.log(timeInMinutes);
+    //console.log(timeInMinutes);
 
     const classes = await db('classes')
       .whereExists(function() {
@@ -42,6 +42,7 @@ export default class ClassesController {
       .select(['classes.*', 'users.*']);
 
     return response.json(classes);
+    
   }
 
   async create (request: Request, response: Response) {
@@ -91,12 +92,12 @@ export default class ClassesController {
       return response.status(201).send();
   
     } catch (err) {
-  
+      console.log(err)
       await trx.rollback();
   
       return response.status(400).json({
-        //console.log(err)
-        error: 'Unexpected error whilte creating new class'
+        
+        error: 'Unexpected error while creating new class'
       })
     }
   }

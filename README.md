@@ -88,8 +88,8 @@ This project was developed with:
 
 ------------
 
-<h2>🎓 Quem ministrou?</h2>
-The Next Level Week 2.0 was taught by <a href="https://github.com/diego3g">Diego Fernandes</a> from <a href="https://rocketseat.com.br/">Rocketseat</a>.
+<h2>🎓 Developed by</h2>
+The Next Level Week 2.0 was developed by <a href="https://github.com/diego3g">Diego Fernandes</a> from <a href="https://rocketseat.com.br/">Rocketseat</a>.
 
 ------------
 

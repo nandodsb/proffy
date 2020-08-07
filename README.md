@@ -14,7 +14,7 @@
 
 <h2>📖 About</h2>
 
-
+Proffy is an online study platform that connects students to teachers to streamline learning.
 
 ------------
 <h2>🔖 Layout</h2>
@@ -23,15 +23,15 @@ Check the layout on <a href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/P
 
 ------------
 
-<h2>📚 Documentação</h2>
+<h2>📚 Documentation</h2>
 
-Aqui será adicionada uma documentação.
+Under construction.
 
 ------------
 
-<h2>🚀 Tecnologias</h2>
+<h2>🚀 Tecnologies</h2>
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with:
 - [NodeJs](https://nodejs.org/en/ "NodeJs")
 - [Express](https://expressjs.com/ "Express")
 - [Expo-Cli](https://expo.io/tools#cli "Expo-Cli")
@@ -42,43 +42,39 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ------------
 
 
-<h3>Dependências</h3>
+<h3>Dependencies</h3>
 
 - [Express](https://expressjs.com/ "Express")
 - [KnexJS](http://knexjs.org/ "KnexJS")
 - [SQLite3](https://www.npmjs.com/package/sqlite3 "SQLite3")
 - [Axios](https://www.npmjs.com/package/axios "Axios")
-- [Leaflet](https://leafletjs.com/ "Leaflet")
 - [Expo Google Fonts](https://github.com/expo/google-fonts " [Expo Google Fonts]")
-- [Picker Select](https://www.npmjs.com/package/react-native-picker-select "Picker Select")
-- [React Native Emoji](https://github.com/EricPKerr/react-native-emoji "React Native Emoji")
-- [Multer](https://www.npmjs.com/package/multer "Multer")
-- [Celebrate](https://www.npmjs.com/package/celebrate "Celebrate")
+
 
 ------------
 
 
-<h2>♻️ Como Contribuir</h2>
+<h2>♻️ How to Contribute</h2>
 
-- Fork este repositório;
+- Fork this repository;
 
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Make a branch with your feature: `git checkout -b my-feature`
 
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Commit your changes: `git commit -m 'feat: My new feature'`
 
-- Push a sua branch: `git push origin my-feature`
+- Push your branch: `git push origin my-feature`
 
 ------------
 
 <h2>🎓 Quem ministrou?</h2>
-A Next Level Week 2.0 foi ministrada pelo <a href="https://github.com/diego3g">Diego Fernandes</a> da <a href="https://rocketseat.com.br/">Rocketseat</a><img src="./.github/rocketseatEmoji.png" width="3%" height="3%"/>
+The Next Level Week 2.0 was taught by <a href="https://github.com/diego3g">Diego Fernandes</a> from <a href="https://rocketseat.com.br/">Rocketseat</a><img src="./.github/rocketseatEmoji.png" width="3%" height="3%"/>
 
 ------------
 
 
-<h2>📃Licença</h2>
+<h2>📃License</h2>
 
-Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/Ecoleta/blob/master/LICENSE.md">Licença</a> e saiba mais.
+This project is under MIT License. Access <a href="https://github.com/Nandosbx/Ecoleta/blob/master/LICENSE.md">License</a> and learn more.
 
 ------------
 

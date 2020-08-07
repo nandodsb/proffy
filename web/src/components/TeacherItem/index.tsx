@@ -12,8 +12,7 @@ export interface Teacher {
   cost: number;    
   name: string;
   subject: string;    
-  whatsapp: string;
-  
+  whatsapp: string;  
 }
 
 interface TeacherItemProps {

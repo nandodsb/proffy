@@ -54,6 +54,10 @@ const styles = StyleSheet.create({
   buttonSecondary: {
     backgroundColor: '#04d361'
   },
+
+  buttonsTextContainer: {
+    alignItems: 'center',
+  },
   
   buttonText: {
     fontFamily: 'Archivo_700Bold',
@@ -64,6 +68,7 @@ const styles = StyleSheet.create({
 
   connectionsContainer: {
     alignItems:'center',
+    
   },
 
   totalConnections: {

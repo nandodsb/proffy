@@ -1,6 +1,6 @@
-import React, { ReactNode } from 'react';
+import React, { ReactNode, useState } from 'react';
 import { useNavigation } from '@react-navigation/native';
-import { View, Image, Text } from 'react-native';
+import { View, Image, Text, ScrollView, ScrollViewBase } from 'react-native';
 import { BorderlessButton } from 'react-native-gesture-handler'
 
 import backIcon from '../../assets/images/icons/back.png';
@@ -16,6 +16,7 @@ interface PageHeaderProps {
 
 const PageHeader: React.FC<PageHeaderProps> = ({ title, headerRight, children }) => {
 
+  
   const { navigate } = useNavigation();
 
   function handleGoBack() {
@@ -24,7 +25,9 @@ const PageHeader: React.FC<PageHeaderProps> = ({ title, headerRight, children })
 
   return (
     
+    
     <View style={styles.container}>
+      <ScrollView showsVerticalScrollIndicator={false}>
       <View style={styles.topBar}>
         <BorderlessButton onPress={handleGoBack}>
           <Image source={backIcon} resizeMode="contain"/>
@@ -37,10 +40,10 @@ const PageHeader: React.FC<PageHeaderProps> = ({ title, headerRight, children })
       <Text style={styles.title}>{title}</Text>
       {headerRight}
       </View>
-
+      
       {children}
+      </ScrollView>
     </View>
-    
   )
 }
 

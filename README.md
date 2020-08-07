@@ -3,12 +3,12 @@
 <img src="./.github/proffy.svg"/>
 </p>
 
+![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/proffy) 
+![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/proffy) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/proffy) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/proffy) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/proffy)
+
 <p align="center">
 <img src=""/>
 </p>
-
-![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/proffy) 
-![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/proffy) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/proffy) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/proffy) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/proffy)
 
  
 

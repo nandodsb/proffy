@@ -7,15 +7,15 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/proffy) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/proffy) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/proffy) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/proffy)
 
 
-<p>
-<img src="./.github/Proffymobilesplash.png" width=40% height=40%/>
+<div align='center'>
+<img src="./.github/Proffymobilesplash.png" width=20% height=20%/>
 
-<img src="./.github/Proffymobile.png" width=40% height=40%/>
+<img src="./.github/Proffymobile.png" width=20% height=20%/>
 
-<img src="./.github/ProffymobileStudy.png" width=40% height=40%/>
+<img src="./.github/ProffymobileStudy.png" width=20% height=20%/>
 
-<img src="./.github/ProffymobileFavorite.png" width=40% height=40%/>
-</p>
+<img src="./.github/ProffymobileFavorite.png" width=20% height=20%/>
+</div>
 
  
 

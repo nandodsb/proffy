@@ -3,10 +3,21 @@
 <img src="./.github/proffy.svg"/>
 </p>
 
+
 ![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/proffy) 
 ![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/proffy) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/proffy) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/proffy) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/proffy)
 
 
+<h2>	📷  WEB</h2>
+<div align='center'>
+
+<img src="./.github/WebLanding.png" width=100% height=100%/>
+
+</div>
+
+------------
+
+<h2>	📷 MOBILE</h2></h2>
 <div align='center'>
 <img src="./.github/Proffymobilesplash.png" width=20% height=20%/>
 
@@ -74,7 +85,7 @@ This project was developed with:
 ------------
 
 <h2>🎓 Quem ministrou?</h2>
-The Next Level Week 2.0 was taught by <a href="https://github.com/diego3g">Diego Fernandes</a> from <a href="https://rocketseat.com.br/">Rocketseat</a><img src="./.github/rocketseatEmoji.png" width="3%" height="3%"/>
+The Next Level Week 2.0 was taught by <a href="https://github.com/diego3g">Diego Fernandes</a> from <a href="https://rocketseat.com.br/">Rocketseat</a>.
 
 ------------
 

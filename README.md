@@ -1,4 +1,4 @@
-<h1 align="center">Proffy</h1>
+<h1 align="center">Next Level Week 2.0</h1>
 <p align="center">
 <img src="./.github/proffy.svg"/>
 </p>
@@ -51,7 +51,7 @@ Proffy is an online study platform that connects students to teachers to streaml
 
 <h2>📚 Documentation</h2>
 
-Under construction.
+🚧Under construction🚧.
 
 ------------
 
@@ -93,7 +93,7 @@ This project was developed with:
 ------------
 
 <h2>🎓 Developed by</h2>
-The Next Level Week 2.0 was developed by <a href="https://github.com/diego3g">Diego Fernandes</a> from <a href="https://rocketseat.com.br/">Rocketseat</a>.
+The Proffy was developed by <a href="https://github.com/diego3g">Diego Fernandes</a> from <a href="https://rocketseat.com.br/">Rocketseat</a> in the Next Level Week 2.0.
 
 ------------
 

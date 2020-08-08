@@ -27,7 +27,8 @@ interface TeacherItemProps {
 
 const  TeacherItem: React.FC<TeacherItemProps> = ({ teacher, favorited })=> {
 
-  const message = `Olá, ${teacher.name}, estou entrando em contato pois gostaria de ter aulas de ${teacher.subject} com o valor de ${teacher.cost}`;
+  const message = `Olá, ${teacher.name}, estou entrando em contato pois gostaria de ter aulas de ${teacher.subject} com o valor de ${Intl.NumberFormat('pt-BR', 
+  {style: 'currency', currency: 'BRL'}).format(teacher.cost)}`;
 
    function handleLinkToWhatsapp() {
 
@@ -73,50 +74,53 @@ const  TeacherItem: React.FC<TeacherItemProps> = ({ teacher, favorited })=> {
    }
 
    return (
-    <View style={styles.container}>
-      <View style={styles.profile}>
-        <Image
-          style={styles.avatar}
-          source={{ uri: teacher.avatar }}
-          />
+     <View style={styles.container}>
+       <View style={styles.profile}>
+         <Image style={styles.avatar} source={{ uri: teacher.avatar }} />
 
-        <View style={styles.profileInfo}>
-          <Text style={styles.name}>{teacher.name}</Text>
-          <Text style={styles.subject}>{teacher.subject}</Text>
-        </View>
-      </View>
+         <View style={styles.profileInfo}>
+           <Text style={styles.name}>{teacher.name}</Text>
+           <Text style={styles.subject}>{teacher.subject}</Text>
+         </View>
+       </View>
 
-      <Text style={styles.bio}>
-        {teacher.bio}
-      </Text>  
+       <Text style={styles.bio}>{teacher.bio}</Text>
 
-      <View style={styles.footer}>
-        <Text style={styles.price}>
-          Preço/Hora {' '}
-          <Text style={styles.priceValue}>{teacher.cost}</Text>
-        </Text>  
+       <View style={styles.footer}>
+         <Text style={styles.price}>
+           Preço/Hora{" "}
+           <Text style={styles.priceValue}>{`${Intl.NumberFormat("pt-BR", {
+             style: "currency",
+             currency: "BRL",
+           }).format(teacher.cost)}`}</Text>
+         </Text>
 
-        <View style={styles.buttonsContainer}>
-          <RectButton 
-          onPress={handleToggleFavorite}
-          style={[
-            styles.favoriteButton,
-            isFavorited ? styles.favorited : {},
-            ]}>
+         <View style={styles.buttonsContainer}>
+           <RectButton
+             onPress={handleToggleFavorite}
+             style={[
+               styles.favoriteButton,
+               isFavorited ? styles.favorited : {},
+             ]}
+           >
+             {isFavorited ? (
+               <Image source={unfavoriteIcon} />
+             ) : (
+               <Image source={heartOutlineIcon} />
+             )}
+           </RectButton>
 
-            { isFavorited
-             ? <Image source={unfavoriteIcon}/> 
-             : <Image source={heartOutlineIcon}/>}
-          </RectButton>
-
-          <RectButton onPress={handleLinkToWhatsapp} style={styles.contactButton}>
-            <Image source={whatsappIcon}/>
-            <Text style={styles.contactButtonText}>Whatsapp</Text>
-          </RectButton>
-        </View>
-      </View>    
-    </View>
-  )
+           <RectButton
+             onPress={handleLinkToWhatsapp}
+             style={styles.contactButton}
+           >
+             <Image source={whatsappIcon} />
+             <Text style={styles.contactButtonText}>Whatsapp</Text>
+           </RectButton>
+         </View>
+       </View>
+     </View>
+   );
 }
 
 export default TeacherItem

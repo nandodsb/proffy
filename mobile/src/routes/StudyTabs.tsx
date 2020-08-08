@@ -42,7 +42,7 @@ function StudyTabs() {
         activeBackgroundColor: '#ebebf5',
         inactiveTintColor: '#c1bccc',
         activeTintColor: '#32264d',
-
+        keyboardHidesTabBar: true
       }}
     >
       <Screen name="TeacherList" component={TeacherList} options={{

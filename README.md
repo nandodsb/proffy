@@ -46,6 +46,7 @@ Proffy is an online study platform that connects students to teachers to streaml
 
 📱 &nbsp; Check the Mobile layout on <a href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile">Figma</a>.
 </div>
+
 ------------
 
 <h2>📚 Documentation</h2>

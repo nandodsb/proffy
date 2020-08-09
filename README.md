@@ -52,6 +52,7 @@ Proffy is an online study platform that connects students to teachers to streaml
 <h2>📚 Documentation</h2>
 
 🚧Under construction🚧.
+Access <a href="https://github.com/Nandosbx/Ecoleta/blob/master/DOCUMENTATION.md">Documentation</a> and learn more.
 
 ------------
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, ImageBackground, Text } from 'react-native';
+import { View, ImageBackground, Text, Linking } from 'react-native';
 import { RectButton } from 'react-native-gesture-handler';
 import { useNavigation } from '@react-navigation/native';
 
@@ -14,9 +14,9 @@ function GiveClasses() {
   function handleNavigateBack() {
     goBack();
   }
+  
 
-
-  return (
+    return (
     <View style={styles.container}>
       <ImageBackground
         resizeMode="contain"
@@ -35,8 +35,8 @@ function GiveClasses() {
 
       </ImageBackground>      
 
-      <RectButton onPress={handleNavigateBack} style={styles.okButton}>
-        <Text style={styles.okButtonText}>Tudo bem</Text>
+      <RectButton onPress={() => Linking.openURL('http://192.168.0.70:3000/give-classes')} style={styles.okButton}>
+        <Text style={styles.okButtonText}>Formulário Web</Text>
       </RectButton>
     </View>
   );

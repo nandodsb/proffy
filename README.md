@@ -61,7 +61,7 @@ Access <a href="https://github.com/Nandosbx/proffy/blob/master/DOCUMENTATION.md"
 
 ------------
 
-<h2>🚀 Tecnologies</h2>
+<h2>🚀 Technologies</h2>
 
 This project was developed with:
 - [NodeJs](https://nodejs.org/en/ "NodeJs")

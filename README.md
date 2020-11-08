@@ -3,9 +3,14 @@
 <img src="./.github/proffy.svg"/>
 </p>
 
+<div align="center">
+<img src="https://img.shields.io/badge/ROCKETSEAT-NLW%202.0-8257E5?style=for-the-badge&logo=appveyor"/><img src="https://img.shields.io/badge/LICENSE-MIT-8257E5?style=for-the-badge&logo=appveyor" />
 
-![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/proffy) 
-![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/proffy) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/proffy) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/proffy) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/proffy)
+
+![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor) 
+![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor)
+
+</div>
 
 
 <h2>	📷  WEB</h2>
@@ -52,7 +57,7 @@ Proffy is an online study platform that connects students to teachers to streaml
 <h2>📚 Documentation</h2>
 
 🚧Under construction🚧.
-Access <a href="https://github.com/Nandosbx/Ecoleta/blob/master/DOCUMENTATION.md">Documentation</a> and learn more.
+Access <a href="https://github.com/Nandosbx/proffy/blob/master/DOCUMENTATION.md">Documentation</a> and learn more.
 
 ------------
 
@@ -101,7 +106,7 @@ The Proffy was developed by <a href="https://github.com/diego3g">Diego Fernandes
 
 <h2>📃License</h2>
 
-This project is under MIT License. Access <a href="https://github.com/Nandosbx/Ecoleta/blob/master/LICENSE.md">License</a> and learn more.
+This project is under MIT License. Access <a href="https://github.com/Nandosbx/proffy/blob/master/LICENSE.md">License</a> and learn more.
 
 ------------
 

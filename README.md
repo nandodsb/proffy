@@ -6,38 +6,36 @@
 <div align="center">
 <img src="https://img.shields.io/badge/ROCKETSEAT-NLW%202.0-8257E5?style=for-the-badge&logo=appveyor"/><img src="https://img.shields.io/badge/LICENSE-MIT-8257E5?style=for-the-badge&logo=appveyor" />
 
-
 ![GitHub top language](https://img.shields.io/github/languages/count/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor) 
 ![GitHub top language](https://img.shields.io/github/languages/top/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor) ![GitHub last commit](https://img.shields.io/github/last-commit/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor) ![GitHub repo size](https://img.shields.io/github/repo-size/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor) ![GitHub issues](https://img.shields.io/github/issues/Nandosbx/proffy?color=8257E5&&style=flat-square&logo=appveyor)
 
 </div>
 
 
+<p align="center">
+<img src="./.github/proffyproject.gif"/>
+</p>
+
+------------
+
+
 <h2>	📷  WEB</h2>
-<div align='center'>
+<div>
 
-<img src="./.github/WebLanding.png" width=100% height=100%/>
-
-<img src="./.github/WebForm.png" width=100% height=100%/>
-
-<img src="./.github/WebForm2.png" width=100% height=100%/>
+- [PICTURES](https://github.com/Nandosbx/proffy/tree/master/web "Frontend")
 
 </div>
 
 ------------
 
-<h2>	📷 MOBILE</h2></h2>
-<div align='center'>
-<img src="./.github/Proffymobilesplash.png" width=20% height=20%/>
+<h2>	📷 MOBILE</h2>
+<div >
 
-<img src="./.github/Proffymobile.png" width=20% height=20%/>
+- [PICTURES](https://github.com/Nandosbx/proffy/tree/master/mobile "Mobile")
 
-<img src="./.github/ProffymobileStudy.png" width=20% height=20%/>
-
-<img src="./.github/ProffymobileFavorite.png" width=20% height=20%/>
 </div>
 
- 
+------------
 
 <h2>📖 About</h2>
 

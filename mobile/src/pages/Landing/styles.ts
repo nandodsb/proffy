@@ -68,6 +68,7 @@ const styles = StyleSheet.create({
 
   connectionsContainer: {
     alignItems:'center',
+    display: 'flex',
     
   },
 
@@ -78,6 +79,9 @@ const styles = StyleSheet.create({
     lineHeight: 20,
     maxWidth: 140,
     marginTop: 20,
+    justifyContent: 'center',
+    alignItems: 'center',
+    display: 'flex',
   },
 });
 
